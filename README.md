@@ -1,4 +1,4 @@
-# Hash-Code-Pizza-Qualification-round-
+# Hash-Code-Pizza-Practice-round-
 Total Score:  942,501
 Example: 15
 Small: 40
