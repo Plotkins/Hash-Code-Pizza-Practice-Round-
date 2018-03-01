@@ -75,7 +75,7 @@ def write_file(result, filename):
 
 
 def run():
-    infile = "big.in"
+    infile = "small.in"
     pizza, r, c, l, h = read_file(infile)
     result=[]
     compute(pizza,r,c,l,h,result)
